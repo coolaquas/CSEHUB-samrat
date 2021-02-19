@@ -149,10 +149,17 @@ button.addEventListener("click", (event) => {
   const email = $("#email").val();
   const message = $("#message").val();
   const body = `Hi%20Samrat,%0d%0d${message}%0d%0dWarm Regards,%0d${name},%0d${email}`;
-  window.open(
-    `mailto:bwubts19245@brainwareuniversity.ac.in?subject=Contact%20Us&body=${body}`,
-    "_blank"
-  );
+  if (navigator.appVersion.includes("Android")) {
+    window.open(
+      `mailto:bwubts19245@brainwareuniversity.ac.in?subject=Contact%20Us&body=Hi%20Samrat,%0d%0d${message}`,
+      "_newtab"
+    );
+  } else {
+    window.open(
+      `mailto:bwubts19245@brainwareuniversity.ac.in?subject=Contact%20Us&body=${body}`,
+      "_newtab"
+    );
+  }
   $("#name").val("");
   $("#email").val("");
   $("#message").val("");
