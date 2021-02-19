@@ -157,3 +157,11 @@ button.addEventListener("click", (event) => {
   $("#email").val("");
   $("#message").val("");
 });
+
+$(document).ready(function () {
+  if (navigator.appVersion.includes("Android")) {
+    let email = $("#mailAddr").attr("href");
+    new_email = email.substr(0, email.indexOf("?"));
+    // console.log(new_email);
+  }
+});
