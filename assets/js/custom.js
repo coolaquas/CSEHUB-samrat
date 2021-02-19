@@ -150,7 +150,7 @@ button.addEventListener("click", (event) => {
   const message = $("#message").val();
   const body = `Hi%20Samrat,%0d%0d${message}%0d%0dWarm Regards,%0d${name},%0d${email}`;
   window.open(
-    `https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=bwubts19245@brainwareuniversity.ac.in&body=${body}&su=Contact Us`,
+    `mailto:bwubts19245@brainwareuniversity.ac.in?subject=Contact%20Us&body=${body}`,
     "_blank"
   );
   $("#name").val("");
