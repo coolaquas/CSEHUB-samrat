@@ -149,17 +149,10 @@ button.addEventListener("click", (event) => {
   const email = $("#email").val();
   const message = $("#message").val();
   const body = `Hi%20Samrat,%0d%0d${message}%0d%0dWarm Regards,%0d${name},%0d${email}`;
-  if (navigator.appVersion.includes("Android")) {
-    window.open(
-      `mailto:bwubts19245@brainwareuniversity.ac.in?subject=Contact%20Us&body=Hi%20Samrat,%0d%0d${message}`,
-      "_newtab"
-    );
-  } else {
-    window.open(
-      `mailto:bwubts19245@brainwareuniversity.ac.in?subject=Contact%20Us&body=${body}`,
-      "_newtab"
-    );
-  }
+  window.open(
+    `mailto:bwubts19245@brainwareuniversity.ac.in?subject=Contact%20Us&body=${body}`,
+    "_newtab"
+  );
   $("#name").val("");
   $("#email").val("");
   $("#message").val("");
@@ -171,4 +164,22 @@ $(document).ready(function () {
     new_email = email.substr(0, email.indexOf("?"));
     // console.log(new_email);
   }
+});
+
+// on preview show iframe
+$("#myModalPrev").on("show.bs.modal", function (e) {
+  var str = $(e.relatedTarget).data("id");
+  var idVideo = str.split("~");
+  $("#myModalPrev .modal-body").html(
+    '<iframe width="100%" height="500px" src="https://drive.google.com/file/d/' +
+      idVideo[1] +
+      '/preview" frameborder="0" allowfullscreen></iframe>'
+  );
+  $("#myModalPrev .modal-header").html(
+    `<span>${idVideo[0]}</span><button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>`
+  );
+});
+//on close remove
+$("#myModalPrev").on("hidden.bs.modal", function () {
+  $("#myModalPrev .modal-body").empty();
 });
