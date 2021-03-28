@@ -100,7 +100,7 @@ Bookdata.forEach((info, idx) => {
                 <div class="col-lg-5 col-md-12 col-sm-12 align-self-center"
                     data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
                     <a href="${info?.src}" target="_blank">
-                        <img src="/assets/images/${
+                        <img src="https://igstory.s3.ap-south-1.amazonaws.com/Brainware/${
                           info?.image
                         }" class="rounded img-fluid d-block mx-auto" alt="App"
                             style="height: 350px" />
@@ -155,7 +155,7 @@ Bookdata.forEach((info, idx) => {
                     data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
                     <a href="${info?.src}"
                         target="_blank">
-                        <img src=/assets/images/${info?.image} class="rounded img-fluid d-block mx-auto" alt="App"
+                        <img src="https://igstory.s3.ap-south-1.amazonaws.com/Brainware/${info?.image}" class="rounded img-fluid d-block mx-auto" alt="App"
                             style="height: 350px" />
                     </a>
                 </div>
