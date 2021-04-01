@@ -1,5 +1,13 @@
 let Bookdata = [
   {
+    title: "Arithmetic and logic unit",
+    info1: "Notes : SITIKANTHA CHATTOPADHYAY",
+    info2: "Computer orgnaization and architecture",
+    src:
+      "https://drive.google.com/file/d/1F1T_V5QWNWyomoHEVvo1-t8DRrjeLXkz/view",
+    image: "12.png",
+  },
+  {
     title: "Principles of Managment",
     info1: "Notes : DR. TINY TANUSHREE GOHAIN",
     info2: "MANAGEMENT I [HSMC (CSE) 401]",
