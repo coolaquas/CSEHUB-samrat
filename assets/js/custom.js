@@ -92,6 +92,11 @@ let subject = [
     data: [
       {
         type: "Theory",
+        date: "01-04-2021",
+        media: "1IjQDdUkO6THse3dHBA-aBP-R2IS5lGAj",
+      },
+      {
+        type: "Theory",
         date: "25-03-2021",
         media: "1fCvcIlwe_J1YWwltz3aCufeLkSYKS5Q5",
       },
@@ -181,6 +186,11 @@ let subject = [
     name: "Computer orgnaization and architecture",
     code: "COA",
     data: [
+      {
+        type: "Lab",
+        date: "31-03-2021",
+        media: "1COJlRgoOaGjoaDHysBuANDlTne4w81DC",
+      },
       {
         type: "Theory",
         date: "27-03-2021",
@@ -277,6 +287,16 @@ let subject = [
     name: "Discrete Mathematics",
     code: "DM",
     data: [
+      {
+        type: "Theory",
+        date: "30-03-2021",
+        media: "1WpV1FOuBcrJla9M7hnrzKX_Aozl4l7M_",
+      },
+      {
+        type: "Theory",
+        date: "27-03-2021",
+        media: "1y933_1dJt6YIF9ColufkDWznqRKYVPcY",
+      },
       {
         type: "Theory",
         date: "20-03-2021",
@@ -388,7 +408,6 @@ let subject = [
     ],
   },
 ];
-
 
 (function ($) {
   "use strict";
@@ -607,5 +626,3 @@ subject.forEach((subName, ind) => {
   );
   add_Data(subName?.code, subName?.data);
 });
-
-
