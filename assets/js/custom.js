@@ -187,6 +187,16 @@ let subject = [
     code: "COA",
     data: [
       {
+        type: "Theory",
+        date: "03-04-2021",
+        media: "1SW1aHO1JBdY6PvFNAgEyLuhFQ9ZY3WT4",
+      },
+      {
+        type: "Theory",
+        date: "01-04-2021",
+        media: "1sbPyaS0mzX1We4eMaJQOWErLgRBv0rFT",
+      },
+      {
         type: "Lab",
         date: "31-03-2021",
         media: "1COJlRgoOaGjoaDHysBuANDlTne4w81DC",
@@ -289,8 +299,8 @@ let subject = [
     data: [
       {
         type: "Theory",
-        date: "30-03-2021",
-        media: "1WpV1FOuBcrJla9M7hnrzKX_Aozl4l7M_",
+        date: "03-04-2021",
+        media: "1IPgaCDkQ8PK9_6LBq19Can3IBaXeM3W4",
       },
       {
         type: "Theory",
