@@ -92,6 +92,11 @@ let subject = [
     data: [
       {
         type: "Theory",
+        date: "06-04-2021",
+        media: "1ItM69FSiO6WRdDimYOlaXM8WIIhK_43F",
+      },
+      {
+        type: "Theory",
         date: "01-04-2021",
         media: "1IjQDdUkO6THse3dHBA-aBP-R2IS5lGAj",
       },
@@ -299,6 +304,11 @@ let subject = [
     data: [
       {
         type: "Theory",
+        date: "06-04-2021",
+        media: "12kZr4JS7uhhift7JjoAd5858aQc_rpHZ",
+      },
+      {
+        type: "Theory",
         date: "03-04-2021",
         media: "1IPgaCDkQ8PK9_6LBq19Can3IBaXeM3W4",
       },
@@ -306,6 +316,11 @@ let subject = [
         type: "Theory",
         date: "27-03-2021",
         media: "1y933_1dJt6YIF9ColufkDWznqRKYVPcY",
+      },
+      {
+        type: "Theory",
+        date: "23-03-2021",
+        media: "1-wzBzg7J35ZR_lBARq1i2S4EkEBf0-gn",
       },
       {
         type: "Theory",
@@ -389,9 +404,14 @@ let subject = [
     code: "MN",
     data: [
       {
-        type: "No Video Yet",
-        date: "Oh ho !",
-        media: "NA",
+        type: "Theory-Directing(Communication)",
+        date: "06-04-2021",
+        media: "1B64xZhMaNpLg2kkTXame5RHxo3EKTkyb",
+      },
+      {
+        type: "Theory-Directing(Nature and function)",
+        date: "06-04-2021",
+        media: "1KMhkQDr2hDGw53Nfz9FL6RecvnbUeuqR",
       },
     ],
   },
