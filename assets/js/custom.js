@@ -92,6 +92,11 @@ let subject = [
     data: [
       {
         type: "Theory",
+        date: "08-04-2021",
+        media: "1BG1r4SlYAQ68SdQZy_IpCfxwYL5CUdXi",
+      },
+      {
+        type: "Theory",
         date: "06-04-2021",
         media: "1ItM69FSiO6WRdDimYOlaXM8WIIhK_43F",
       },
@@ -191,6 +196,11 @@ let subject = [
     name: "Computer orgnaization and architecture",
     code: "COA",
     data: [
+      {
+        type: "Theory",
+        date: "07-04-2021",
+        media: "1ju4enxrqMxmxbOdeUYCkbnQ9xg83kDys",
+      },
       {
         type: "Theory",
         date: "03-04-2021",

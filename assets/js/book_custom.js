@@ -1,5 +1,29 @@
 let Bookdata = [
   {
+    title: "DIRECTING: Unit IV",
+    info1: "Notes : DR. TINY TANUSHREE GOHAIN",
+    info2: "MANAGEMENT I [HSMC (CSE) 401]",
+    src:
+      "https://drive.google.com/file/d/105lKmphLfG7BHEoIPv25VNZCtWsYsyis/view",
+    image: "15.png",
+  },
+  {
+    title: "UNIT IV - DIRECTING",
+    info1: "Notes : DR. TINY TANUSHREE GOHAIN",
+    info2: "MANAGEMENT I [HSMC (CSE) 401]",
+    src:
+      "https://drive.google.com/file/d/1BJX1VR27xWyw0lqNG52zL4x1MO_n8rKM/view",
+    image: "14.png",
+  },
+  {
+    title: "Arithmetic and logic unit-2",
+    info1: "Notes : SITIKANTHA CHATTOPADHYAY",
+    info2: "Computer orgnaization and architecture",
+    src:
+      "https://drive.google.com/file/d/1h9bH5ZPOtZovHTqIFH5QIXIOQZJRZO7h/view",
+    image: "13.png",
+  },
+  {
     title: "Arithmetic and logic unit",
     info1: "Notes : SITIKANTHA CHATTOPADHYAY",
     info2: "Computer orgnaization and architecture",
