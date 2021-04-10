@@ -314,6 +314,11 @@ let subject = [
     data: [
       {
         type: "Theory",
+        date: "09-04-2021",
+        media: "1rOwHaVHyjuAlbJ-NqUx2XPfCdM0Jgg4e",
+      },
+      {
+        type: "Theory",
         date: "06-04-2021",
         media: "12kZr4JS7uhhift7JjoAd5858aQc_rpHZ",
       },
@@ -422,6 +427,21 @@ let subject = [
         type: "Theory-Directing(Nature and function)",
         date: "06-04-2021",
         media: "1KMhkQDr2hDGw53Nfz9FL6RecvnbUeuqR",
+      },
+      {
+        type: "Theory-Staffing",
+        date: "",
+        media: "1jWMfswvujgWcVM6sjcFnhpSLZYFCHpgR",
+      },
+      {
+        type: "Theory-Directing(Basic)",
+        date: "26-03-2021",
+        media: "1ivKo8naj3vxhH921LJLPEi7_kC4PzPhx",
+      },
+      {
+        type: "Theory-Span of Managment",
+        date: "19-03-2021",
+        media: "1Dc748YzD-o-ohZlkLIzgXRw7xPHiS56B",
       },
     ],
   },
