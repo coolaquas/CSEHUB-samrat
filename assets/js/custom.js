@@ -5,6 +5,31 @@ let subject = [
     data: [
       {
         type: "Lab",
+        date: "16-04-2021",
+        media: "1cWC6Nw32BRDadTMiCc_PccxuCIKhWhar",
+      },
+      {
+        type: "Theory",
+        date: "16-04-2021",
+        media: "1ne58PU8GvWyqyfuy0s_xsrYSXokVZIdO",
+      },
+      {
+        type: "Theory",
+        date: "27-03-2021",
+        media: "12IifZEbRec0mQJ81mYIOhaqaVEvgo0BY",
+      },
+      {
+        type: "Lab",
+        date: "26-03-2021",
+        media: "151auFe2HFplNOoybwAVImofta3EBYGXe",
+      },
+      {
+        type: "Theory",
+        date: "26-03-2021",
+        media: "1zJEqEOdHxXwpWZVMYPxWCnptaA1IgAyl",
+      },
+      {
+        type: "Lab",
         date: "24-03-2021",
         media: "1x9Nc7i-uvZ5-oh4pYeXB5Au00_aN9_G3",
       },
@@ -90,6 +115,16 @@ let subject = [
     name: "Operating System",
     code: "OS",
     data: [
+      {
+        type: "Theory",
+        date: "15-04-2021",
+        media: "1AHvnCqUzSiCoggS1Fa79BENRfoxXmt_P",
+      },
+      {
+        type: "Lab",
+        date: "13-04-2021",
+        media: "1HiplfJVm5LCOl6SAN6nPMVH_nnkp_SV5",
+      },
       {
         type: "Theory",
         date: "08-04-2021",
@@ -196,6 +231,11 @@ let subject = [
     name: "Computer orgnaization and architecture",
     code: "COA",
     data: [
+      {
+        type: "Theory",
+        date: "10-04-2021",
+        media: "12QtZb2jsbolVjB_SsLOeN1N6Zx_oAVJO",
+      },
       {
         type: "Theory",
         date: "07-04-2021",
@@ -314,6 +354,26 @@ let subject = [
     data: [
       {
         type: "Theory",
+        date: "17-04-2021",
+        media: "1OaUZ5AcNi_zTqMdhzllPNMpIin8MaX5r",
+      },
+      {
+        type: "Theory",
+        date: "16-04-2021",
+        media: "1obFJsqnncclgry_jJKNek6pbJXRBfaCh",
+      },
+      {
+        type: "Theory",
+        date: "13-04-2021",
+        media: "1Xi1cEd_r1pLObKBEt0TkPEKGJiJuCxvk",
+      },
+      {
+        type: "Theory",
+        date: "10-04-2021",
+        media: "1c-NL8BXIfakeVtI1zFnTq4yq1SFKESe0",
+      },
+      {
+        type: "Theory",
         date: "09-04-2021",
         media: "1rOwHaVHyjuAlbJ-NqUx2XPfCdM0Jgg4e",
       },
@@ -418,6 +478,11 @@ let subject = [
     name: "Managment I",
     code: "MN",
     data: [
+      {
+        type: "Theory-Ognaising",
+        date: "10-04-2021",
+        media: "1UtsI3Q9DcWWvYpBr8fpfFbCzLfwSv4Yr",
+      },
       {
         type: "Theory-Directing(Communication)",
         date: "06-04-2021",
