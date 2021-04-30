@@ -4,6 +4,16 @@ let subject = [
     code: "DAA",
     data: [
       {
+        type: "Theory",
+        date: "24-04-2021",
+        media: "1dQOTSX2MdA4DZQoQhgOWJN5iWBVP84M1",
+      },
+      {
+        type: "Theory",
+        date: "23-04-2021",
+        media: "12M8OKgdGYloW2RJlsQGnztXDzhHc6riO",
+      },
+      {
         type: "Lab",
         date: "16-04-2021",
         media: "1cWC6Nw32BRDadTMiCc_PccxuCIKhWhar",
@@ -115,6 +125,31 @@ let subject = [
     name: "Operating System",
     code: "OS",
     data: [
+      {
+        type: "Theory",
+        date: "29-04-2021",
+        media: "18Uag4D8zOQ7f1S1gCAPuIxPTtO7AwVUl",
+      },
+      {
+        type: "Theory",
+        date: "28-04-2021",
+        media: "1rdykCjloRCAfG9r1t2QBTOC7m3nu_g92",
+      },
+      {
+        type: "Lab",
+        date: "27-04-2021",
+        media: "1wSnGr7AlHXdI-mBVKnJL_sip-hp6EY5f",
+      },
+      {
+        type: "Theory",
+        date: "22-04-2021",
+        media: "1iRAwchC04QZiIMIQmxhh0LfNdirCtUvf",
+      },
+      {
+        type: "Theory",
+        date: "21-04-2021",
+        media: "1-G1KXYdc4fD7ymcccQoQ4PCx0YreIvAo",
+      },
       {
         type: "Theory",
         date: "15-04-2021",
@@ -231,6 +266,21 @@ let subject = [
     name: "Computer orgnaization and architecture",
     code: "COA",
     data: [
+      {
+        type: "Lab",
+        date: "28-04-2021",
+        media: "1iNUYgofAkSXxcdaliT_4q8V4Cez-2uAX",
+      },
+      {
+        type: "Theory",
+        date: "24-04-2021",
+        media: "1VDHFqPAH-cgJp1QqcaVB7QXrmOWfxlxa",
+      },
+      {
+        type: "Theory",
+        date: "21-04-2021",
+        media: "1Frr4fGWs9Lsny4AYjc-H3Z5BgBLOmGFj",
+      },
       {
         type: "Theory",
         date: "10-04-2021",
@@ -352,6 +402,21 @@ let subject = [
     name: "Discrete Mathematics",
     code: "DM",
     data: [
+      {
+        type: "Theory",
+        date: "27-04-2021",
+        media: "1sgNgiov6hSw-EANUCXzhSeSV_qHN1lEd",
+      },
+      {
+        type: "Theory",
+        date: "24-04-2021",
+        media: "1DFOtIbpwX4KSEySxS048pgv2w7eSmkFD",
+      },
+      {
+        type: "Theory",
+        date: "23-04-2021",
+        media: "1kOCedWc_Fy3YoJf2yzLwxi3N80ezPgmz",
+      },
       {
         type: "Theory",
         date: "17-04-2021",
@@ -478,6 +543,21 @@ let subject = [
     name: "Managment I",
     code: "MN",
     data: [
+      {
+        type: "Theory-Motivation Theory",
+        date: "22-04-2021",
+        media: "1ixuSnSUNJ5qeFMvP8jGjCoLF7mDh3IZm",
+      },
+      {
+        type: "Theory-Groups and teams",
+        date: "21-04-2021",
+        media: "1LVFEBUOyDvSwsKUCtkepT1rJZJ8nXgTo",
+      },
+      {
+        type: "Theory-Leading(Motivation theories)",
+        date: "20-04-2021",
+        media: "1Vy5QuJ1nfPr9o6cwdtdgsxXM7dmU_C0B",
+      },
       {
         type: "Theory-Ognaising",
         date: "10-04-2021",
