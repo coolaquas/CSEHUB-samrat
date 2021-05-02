@@ -362,8 +362,8 @@ let subject = [
         media: "1VzmT51YXcw_6i8LxeKPcvpmG_1grTWzx",
       },
       {
-        type: "Lab",
-        date: "24-02-2021",
+        type: "Theory",
+        date: "25-02-2021",
         media: "1iNBwP18ro3kXceuEZEz-3VwOJuS3XsML",
       },
       {
@@ -377,7 +377,7 @@ let subject = [
         media: "1czW7eHgixxL4_CVJmtKn0mGW8TBp9fDe",
       },
       {
-        type: "Lab",
+        type: "Theory",
         date: "17-02-2021",
         media: "1auIyB2oma2ktY_fV3pzRzMZxKJptOT_w",
       },
