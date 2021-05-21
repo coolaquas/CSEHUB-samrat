@@ -5,6 +5,26 @@ let subject = [
     data: [
       {
         type: "Theory",
+        date: "15-05-2021",
+        media: "1EXV-7Z-29FsQJSFw8z1KwEDdN1br6sZM",
+      },
+      {
+        type: "Theory",
+        date: "01-05-2021",
+        media: "1HpelvUnXgrVAm2aNdKMfnKBUEQxb-FQz",
+      },
+      {
+        type: "Lab",
+        date: "30-04-2021",
+        media: "1QrokRbGGRAruzaXVAPYlRPvqnOQkiEC6",
+      },
+      {
+        type: "Theory",
+        date: "30-04-2021",
+        media: "1C6Ll2n7DlX9YeirFn4KjbZdSrP4q_kwc",
+      },
+      {
+        type: "Theory",
         date: "24-04-2021",
         media: "1dQOTSX2MdA4DZQoQhgOWJN5iWBVP84M1",
       },
@@ -125,6 +145,46 @@ let subject = [
     name: "Operating System",
     code: "OS",
     data: [
+      {
+        type: "Theory",
+        date: "20-05-2021",
+        media: "1WK6_1HGKhgCjIMEL9T2reu2kpHDQNnS8",
+      },
+      {
+        type: "Lab",
+        date: "18-05-2021",
+        media: "1wyOB0uvI2jdghSrE5EPUVsREek5QR7sU",
+      },
+      {
+        type: "Theory",
+        date: "19-05-2021",
+        media: "1UF6Fjtdtpis7ttGFWY9YIAnDxKZ_EjHI",
+      },
+      {
+        type: "Theory",
+        date: "13-05-2021",
+        media: "1iZDgXQWyF8o8xOfMKn38RRq9lPQ3svxr",
+      },
+      {
+        type: "Theory",
+        date: "11-05-2021",
+        media: "1HHDYpPl-1K7j5jI5DEnlAZ53oo22qrRh",
+      },
+      {
+        type: "Theory",
+        date: "06-05-2021",
+        media: "1xsgUsuqmXSMj10PehNc1Fke1JFavY6mV",
+      },
+      {
+        type: "Theory",
+        date: "05-05-2021",
+        media: "1C9c9tPpnVhiLrcBpKFnlrE03jqrkC770",
+      },
+      {
+        type: "Lab",
+        date: "04-05-2021",
+        media: "13WGEQ51b5s78hNpRYJXRPFdc1TbkHItJ",
+      },
       {
         type: "Theory",
         date: "29-04-2021",
@@ -267,6 +327,31 @@ let subject = [
     code: "COA",
     data: [
       {
+        type: "Theory",
+        date: "20-05-2021",
+        media: "1oCh7fEdI1TyLGwf3P9yupNrbfYYhgVFe",
+      },
+      {
+        type: "Theory",
+        date: "08-05-2021",
+        media: "1AhgWvmwhfGA_bAMklst_LybEiJwtfg4w",
+      },
+      {
+        type: "Lab",
+        date: "05-05-2021",
+        media: "1AgvbwDBR9sQl5D6p3qxQH3-kDCZuPDnF",
+      },
+      {
+        type: "Theory",
+        date: "01-05-2021",
+        media: "1ThWRwoUvLZAKa9qignS8VhJEZe9gK1oe",
+      },
+      {
+        type: "Theory",
+        date: "29-04-2021",
+        media: "1j81n2j1yR3NLb5RMJ_XvepsRhXtfzk2y",
+      },
+      {
         type: "Lab",
         date: "28-04-2021",
         media: "1iNUYgofAkSXxcdaliT_4q8V4Cez-2uAX",
@@ -402,6 +487,46 @@ let subject = [
     name: "Discrete Mathematics",
     code: "DM",
     data: [
+      {
+        type: "Theory",
+        date: "21-05-2021",
+        media: "1ghgnvuTQwedNQtpPL_NwBmSSFjjSQsWB",
+      },
+      {
+        type: "Theory",
+        date: "18-05-2021",
+        media: "1mdyijayvI1P01YHqnTjetnNrdcbe8mDr",
+      },
+      {
+        type: "Theory",
+        date: "15-05-2021",
+        media: "1mIiOl3VJ-0N-8zgSMONNtDccKB1TFFPD",
+      },
+      {
+        type: "Theory",
+        date: "11-05-2021",
+        media: "1mJkI6LXbCiu6mwdhCsPKbuhBh9jSsDbq",
+      },
+      {
+        type: "Theory",
+        date: "07-05-2021",
+        media: "1JcTF8LLtsVWUjQCOpNPRfOrgbztgq7rx",
+      },
+      {
+        type: "Theory",
+        date: "04-05-2021",
+        media: "13XdJvKfle_RYqIB2-fKeBJwzIVJQBeqi",
+      },
+      {
+        type: "Theory",
+        date: "01-05-2021",
+        media: "1V_uy2e-xQZD6GV1wF7bQrgA2L_fB7Okr",
+      },
+      {
+        type: "Theory",
+        date: "30-04-2021",
+        media: "1uqI38tKfjoaD2-ycKJqMv3d62hg9842F",
+      },
       {
         type: "Theory",
         date: "27-04-2021",
@@ -595,9 +720,9 @@ let subject = [
     code: "LN",
     data: [
       {
-        type: "No Video Yet",
-        date: "Oh ho !",
-        media: "NA",
+        type: "Lab",
+        date: "08-05-2021",
+        media: "1KD6Tz8xe49JEeX_I5hIL9PZePLeCB-ax",
       },
     ],
   },
