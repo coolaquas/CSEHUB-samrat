@@ -4,6 +4,16 @@ let subject = [
     code: "DAA",
     data: [
       {
+        type: "Lab",
+        date: "22-05-2021",
+        media: "1dzmP7zWQ0fwSEMSwwx0Gd_3VaZzOffzN",
+      },
+      {
+        type: "Theory",
+        date: "21-05-2021",
+        media: "1UnigozYDKVc7XXytwVTT-osFuV6xqatG",
+      },
+      {
         type: "Theory",
         date: "15-05-2021",
         media: "1EXV-7Z-29FsQJSFw8z1KwEDdN1br6sZM",
@@ -145,6 +155,11 @@ let subject = [
     name: "Operating System",
     code: "OS",
     data: [
+      {
+        type: "Theory",
+        date: "25-05-2021",
+        media: "1s7R8ULOMfooLp0Dwr7-xLZg66vQl5Yb_",
+      },
       {
         type: "Theory",
         date: "20-05-2021",
@@ -328,6 +343,21 @@ let subject = [
     data: [
       {
         type: "Theory",
+        date: "29-05-2021",
+        media: "1ZO5PEIR8aH6vJ69F50gG0_oeb5fCyoT5",
+      },
+      {
+        type: "Theory",
+        date: "27-05-2021",
+        media: "1XTvRNjqI3W4WcJf4_iP-lm785vaVunAY",
+      },
+      {
+        type: "Theory",
+        date: "22-05-2021",
+        media: "1HfSK-QY5L9RMPc9fuxTq3KqmxQ4JKtMJ",
+      },
+      {
+        type: "Theory",
         date: "20-05-2021",
         media: "1oCh7fEdI1TyLGwf3P9yupNrbfYYhgVFe",
       },
@@ -487,6 +517,21 @@ let subject = [
     name: "Discrete Mathematics",
     code: "DM",
     data: [
+      {
+        type: "Theory",
+        date: "28-05-2021",
+        media: "1J_mcnLOeW2GMqKv69-6qoAJV0pa9AQZJ",
+      },
+      {
+        type: "Theory",
+        date: "25-05-2021",
+        media: "1DHH1ZXbLLIK5-fGfNNyxZSss2t4b0Pox",
+      },
+      {
+        type: "Theory",
+        date: "22-05-2021",
+        media: "1xIJpHJXk1k8tDpAF46wo7W11fc0W7p2-",
+      },
       {
         type: "Theory",
         date: "21-05-2021",
