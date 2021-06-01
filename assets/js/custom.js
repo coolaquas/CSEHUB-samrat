@@ -130,9 +130,14 @@ let subject = [
         media: "1ZOpEa0Tq_mY8q5Esg3VLtSoL_nuZXvDS",
       },
       {
-        type: "Theory",
+        type: "Lab",
         date: "19-02-2021",
         media: "10Tj9CqynJvXV16WDxL76uRhPpESWD4FP",
+      },
+      {
+        type: "Theory",
+        date: "19-02-2021",
+        media: "1l49rHUJoy4hotoXSw-1aYWoio0pb1rDm",
       },
       {
         type: "Theory",
@@ -140,7 +145,7 @@ let subject = [
         media: "1y0rgsOw8sihutWs0jq7Ew62wjc4Bw7n7",
       },
       {
-        type: "Theory",
+        type: "Lab",
         date: "12-02-2021",
         media: "1iU7VAAZO2Z-ONGoUH92wwFd9Fi-m-fuo",
       },
