@@ -112,7 +112,7 @@ let subject = [
       {
         type: "Theory",
         date: "27-02-2021",
-        media: "1biR8nHT4_4VDzdMdspICuMEf4wWEG0pQ",
+        media: "1kQR_ZQNi-4Z1XwvANNSfKnKdb2FxZudW",
       },
       {
         type: "Lab",
@@ -523,6 +523,11 @@ let subject = [
     name: "Discrete Mathematics",
     code: "DM",
     data: [
+      {
+        type: "Theory",
+        date: "01-06-2021",
+        media: "1o6inPCvidNjTI5j1LCNwqoJfj4vlFbKW",
+      },
       {
         type: "Theory",
         date: "28-05-2021",
