@@ -44,6 +44,11 @@ let subject = [
         media: "12M8OKgdGYloW2RJlsQGnztXDzhHc6riO",
       },
       {
+        type: "Theory",
+        date: "17-04-2021",
+        media: "1WUo14jrtAVz4hhmQi-nPs0segxJqxRcY",
+      },
+      {
         type: "Lab",
         date: "16-04-2021",
         media: "1cWC6Nw32BRDadTMiCc_PccxuCIKhWhar",
@@ -75,6 +80,11 @@ let subject = [
       },
       {
         type: "Lab",
+        date: "19-03-2021",
+        media: "106X04cmnavFSlu0vonli1gJssgBKONXp",
+      },
+      {
+        type: "Theory",
         date: "19-03-2021",
         media: "1ri1YLp5o0rBobeWAUO6EdLdI1Mh9ltJT",
       },
