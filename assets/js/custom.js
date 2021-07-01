@@ -173,6 +173,31 @@ let subject = [
     data: [
       {
         type: "Theory",
+        date: "10-06-2021",
+        media: "1CWyO2BuR_LpAqFeaK_zzvoN028A03gmI",
+      },
+      {
+        type: "Theory",
+        date: "08-06-2021",
+        media: "1Y0ADVuxytsiNrKSngibEE32tGNSIrO3n",
+      },
+      {
+        type: "Theory",
+        date: "03-06-2021",
+        media: "17qocZCMBLNvOOSg4mulGTQoi_cQvHOUx",
+      },
+      {
+        type: "Theory",
+        date: "02-06-2021",
+        media: "1vT7Fzzf4uC7ICLrgUOXpiW06scDM3vL-",
+      },
+      {
+        type: "Theory",
+        date: "01-06-2021",
+        media: "1FMzog-xviMHGCx3ScdjNxc3nonjNPgUL",
+      },
+      {
+        type: "Theory",
         date: "25-05-2021",
         media: "1s7R8ULOMfooLp0Dwr7-xLZg66vQl5Yb_",
       },
@@ -359,6 +384,36 @@ let subject = [
     data: [
       {
         type: "Theory",
+        date: "14-06-2021",
+        media: "1HdrFDXQ7AXIOSB4dNptrCeidSlrqGzYY",
+      },
+      {
+        type: "Theory",
+        date: "14-06-2021",
+        media: "1HdrFDXQ7AXIOSB4dNptrCeidSlrqGzYY",
+      },
+      {
+        type: "Theory",
+        date: "12-06-2021",
+        media: "1-zzZb3EEpA0y6un2soWVp6gpLS_CuscA",
+      },
+      {
+        type: "Theory",
+        date: "10-06-2021",
+        media: "1GvNVwJkatQA7_lhHVHTGdRJHvymu5pDD",
+      },
+      {
+        type: "Theory",
+        date: "05-06-2021",
+        media: "1CHZd9PzIAT8Nvswi5r6eVEzIAA5j06jL",
+      },
+      {
+        type: "Theory",
+        date: "03-06-2021",
+        media: "14APO_SJfX0--_n8HhIsqYLta6dUmHnrT",
+      },
+      {
+        type: "Theory",
         date: "29-05-2021",
         media: "1ZO5PEIR8aH6vJ69F50gG0_oeb5fCyoT5",
       },
@@ -533,6 +588,41 @@ let subject = [
     name: "Discrete Mathematics",
     code: "DM",
     data: [
+      {
+        type: "Theory",
+        date: "17-06-2021",
+        media: "1_RDSRVqOWKjwUyylkHi11mwsYNXGkpxB",
+      },
+      {
+        type: "Theory",
+        date: "12-06-2021",
+        media: "1IvOcA5EdSAkNkaJswjX1yeBuhkEXtWix",
+      },
+      {
+        type: "Theory",
+        date: "11-06-2021",
+        media: "1J1X4NbpDptReCTe9DRTDb2MKbRFnEd9D",
+      },
+      {
+        type: "Theory",
+        date: "08-06-2021",
+        media: "1XFxxWu5vGymQSbhVJgQieAQ8jL1zVP3R",
+      },
+      {
+        type: "Theory",
+        date: "05-06-2021",
+        media: "1wNkcc43HPSWd0a6AmWR8xbE6ca4aTteW",
+      },
+      {
+        type: "Theory",
+        date: "04-06-2021",
+        media: "1ADMBhkCoGSpt-_n43JZ-oYLgqpR-D0Xz",
+      },
+      {
+        type: "Theory",
+        date: "04-06-2021",
+        media: "1ADMBhkCoGSpt-_n43JZ-oYLgqpR-D0Xz",
+      },
       {
         type: "Theory",
         date: "01-06-2021",
